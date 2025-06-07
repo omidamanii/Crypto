@@ -1,4 +1,5 @@
 package com.example.crypto.screen.coin
+import com.example.crypto.domain.model.Coin
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

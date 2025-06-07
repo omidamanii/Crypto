@@ -4,8 +4,8 @@ import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
-import com.example.crypto.api.CoinCapApi
-import com.example.crypto.api.KuCoinApi
+import com.example.crypto.data.remote.service.CoinCapApi
+import com.example.crypto.data.remote.service.KuCoinApi
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

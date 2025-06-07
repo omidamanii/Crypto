@@ -1,4 +1,5 @@
 package com.example.crypto.screen.history
+import com.example.crypto.domain.model.Candle
 
 import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
